@@ -1,0 +1,17 @@
+.movieWrapper{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    
+
+}
+.imgWrapper{
+   border-radius: 15px; 
+}
+.movieDesc{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 10px;
+    margin: 10px 0;
+}

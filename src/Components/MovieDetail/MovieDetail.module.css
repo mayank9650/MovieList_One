@@ -1,0 +1,27 @@
+.movieContainer{
+   color: white
+}
+.singleMovieWrapper{
+    width:80%;
+    display: flex;
+    margin:50px auto;
+
+}
+.singleMovieLogo{
+    margin-right: 50px;
+}
+.singleMovieTime{
+    display: flex;
+}
+
+.singleMovietitle, .singleMoviePlot,.singleMovieButton{
+    margin: 20px;
+}
+.singleMovieButton{
+    color:white;
+    height: 100px;
+    width: 300px;
+    background-color:rgba(168,162,61);
+    border: 1px solid rgba(168,162,61);
+    border-radius: 5px;
+}

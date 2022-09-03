@@ -1,0 +1,12 @@
+.movieContainer{
+    background-color: rgb(16, 15, 22);
+    
+}
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 90%;
+    justify-content: space-around;
+    margin: auto;
+}

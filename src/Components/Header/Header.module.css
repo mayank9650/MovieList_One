@@ -1,0 +1,17 @@
+.header{
+    height:70px;
+    background-color: rgba(24, 29, 34);
+    color:white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+
+}
+.singup{
+    border-radius: 25px;
+    padding: 5px 15px;
+    color:white;
+    background-color: rgba(16,15,22);
+    border: 1px solid rgba(168,162,61)
+}
